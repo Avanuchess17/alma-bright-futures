@@ -1,6 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { Heart, Target, Users, Lightbulb } from 'lucide-react';
-import founderImage from '@/assets/founder-portrait.jpg';
+import almaImage from '@/assets/alma-professional.jpg';
 
 const About = () => {
   const values = [
@@ -48,7 +48,7 @@ const About = () => {
           <div className="relative animate-slide-up">
             <div className="relative rounded-3xl overflow-hidden shadow-glow">
               <img
-                src={founderImage}
+                src={almaImage}
                 alt="Alma Asif - Founder & Lead Trainer"
                 className="w-full h-[500px] object-cover"
               />
