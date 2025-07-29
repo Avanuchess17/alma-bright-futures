@@ -1,6 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { Heart, Target, Users, Lightbulb } from 'lucide-react';
-import almaImage from '@/assets/alma-professional.jpg';
+import almaImage from '@/assets/founder-elegant.jpg';
 
 const About = () => {
   const values = [
