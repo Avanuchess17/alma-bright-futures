@@ -48,7 +48,7 @@ const About = () => {
           <div className="relative animate-slide-up">
             <div className="relative rounded-3xl overflow-hidden shadow-glow">
               <img
-                src="/lovable-uploads/0913dd8f-b408-475f-8bc5-36bf166f9a9b.png"
+                src="/lovable-uploads/d5f021b3-6fda-4ad5-9362-8ddd7d11f640.png"
                 alt="Alma Asif - Founder & Lead Trainer"
                 className="w-full h-[500px] object-cover"
               />
